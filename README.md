@@ -1,2 +1,2 @@
 # basic-website
-We design for MICNUEL
+Website design for MICNUEL.COM
